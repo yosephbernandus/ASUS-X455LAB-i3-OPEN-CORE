@@ -52,3 +52,5 @@ https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/haswell.ht
 
 
 Please read https://dortania.github.io/OpenCore-Install-Guide/ before start installation. I'm start from `Adding the base OpenCore files` because I create Installation Disk directly from Olarila  
+
+* Note: If want upgrade to BigSur need update that OpenCore to 0.7.x
