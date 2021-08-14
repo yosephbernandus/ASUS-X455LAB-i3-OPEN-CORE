@@ -49,3 +49,6 @@ https://dortania.github.io/Getting-Started-With-ACPI/ (SSDT)
 https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/haswell.html#acpi
 - ProperTree Master to edit config list
 - SMBIOS to generate hardware serial number 
+
+
+Please read https://dortania.github.io/OpenCore-Install-Guide/ before start installation. I'm start from `Adding the base OpenCore files` because I create Installation Disk directly from Olarila  
